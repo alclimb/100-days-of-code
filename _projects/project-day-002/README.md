@@ -11,4 +11,4 @@ Three.js の勉強
 
 ## (3) LINKS TO WORK
 - demo: https://alclimb.github.io/100-days-of-code/2020-05-01/
-- code: https://github.com/alclimb/100-days-of-code/tree/master/projects/2020-05-01
+- code: https://github.com/alclimb/100-days-of-code/tree/master/_projects/project-day-002
