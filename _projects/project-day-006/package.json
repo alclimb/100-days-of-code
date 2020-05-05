@@ -1,0 +1,22 @@
+{
+    "name": "day-6",
+    "version": "1.0.0",
+    "scripts": {
+        "dev": "parcel ./src/index.html",
+        "build": "rimraf ../../day-006 && parcel build ./src/index.html --public-url ./ --out-dir ../../day-006"
+    },
+    "author": "",
+    "description": "",
+    "dependencies": {
+        "cannon": "^0.6.2",
+        "three": "^0.116.0",
+        "three-text2d": "^0.6.0"
+    },
+    "devDependencies": {
+        "@types/cannon": "^0.1.4",
+        "parcel-bundler": "^1.12.4",
+        "parcel-plugin-static-files-copy": "^2.3.1",
+        "rimraf": "^3.0.2",
+        "typescript": "^3.8.3"
+    }
+}
