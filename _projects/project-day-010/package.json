@@ -1,0 +1,22 @@
+{
+    "name": "day-10",
+    "version": "1.0.0",
+    "scripts": {
+        "dev": "parcel ./src/index.html",
+        "build": "rimraf ../../day-010 && parcel build ./src/index.html --public-url ./ --out-dir ../../day-010"
+    },
+    "author": "",
+    "description": "",
+    "dependencies": {
+        "chroma-js": "^2.1.0",
+        "three": "^0.116.1",
+        "three-text2d": "^0.6.0"
+    },
+    "devDependencies": {
+        "@types/chroma-js": "^2.0.0",
+        "parcel-bundler": "^1.12.4",
+        "parcel-plugin-static-files-copy": "^2.3.1",
+        "rimraf": "^3.0.2",
+        "typescript": "^3.8.3"
+    }
+}
