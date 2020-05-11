@@ -1,15 +1,14 @@
-## DAY 11: 2020-05-10
+## DAY 12: 2020-05-11
 ### (1) TODAY'S PROGRESS
 - Three.js
   - Learning the bone animation
 
 ### (2) THOUGHTS
-- I'm going to try to make it from bone instead of using a model with a bone.
-- This is a work in progress.
+- I've finally got control of BONE!
 
 ### (3) LINKS TO WORK
-- demo: https://alclimb.github.io/100-days-of-code/day-011/
-- code: https://github.com/alclimb/100-days-of-code/tree/master/_projects/project-day-011
+- demo: https://alclimb.github.io/100-days-of-code/day-012/
+- code: https://github.com/alclimb/100-days-of-code/tree/master/_projects/project-day-012
 
 
 ## How to
